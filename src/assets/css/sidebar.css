@@ -1,0 +1,43 @@
+.custom-sidebar {
+    height: 100vh !important;
+    width: 300px;
+    min-width: 300px;
+    background-color: #172b4c;
+    position: relative;
+}
+
+.custom-sidebar .avatar {
+    width: 35px;
+    height: 35px;
+    position: relative;
+}
+
+.custom-sidebar .badge-for-avatar {
+    width: 15px;
+    min-height: 15px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.add-icon {
+    width: 20px;
+    height: 20px;
+    min-height: 20px;
+}
+
+.add-button-text {
+    background-color: #8fd04e;
+    border-radius: 10px;
+    padding: 3px 10px;
+}
+
+.mobile-link {
+    position: absolute;
+    bottom: 20px;
+    width: 90%;
+}
+
+.nav-link {
+    padding: .3rem 1rem !important;
+}
